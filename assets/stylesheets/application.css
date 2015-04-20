@@ -193,7 +193,7 @@ PUBLIC KEY
 /*
 MISC
 */
-.spacer { display: block; height: 10px; clear: both; }
+.controller-repositories .spacer { display: block; height: 10px; clear: both; }
 
 td.buttons { width: 20%; }
 
